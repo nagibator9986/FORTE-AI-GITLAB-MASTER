@@ -1,0 +1,4 @@
+{
+  "name": "AI Code Review Assistant",
+  "description": "A Django+React application that processes GitLab webhooks, uses Gemini to review code, and provides a dashboard for review metrics."
+}
